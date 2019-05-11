@@ -5,5 +5,8 @@ public class test {
         System.out.println("我爱你");
         System.out.println("我爱你");
         System.out.println("我爱你");
+        System.out.println("我爱你");
+        System.out.println("我爱你");
+        System.out.println("我爱你");
     }
 }
